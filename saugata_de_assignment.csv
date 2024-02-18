@@ -1,0 +1,9 @@
+customer_id;age;item_name;quantity
+C001;30;Laptop;1.0
+C002;25;Laptop;2.0
+C002;25;Smartphone;1.0
+C004;22;Headphones;1.0
+C004;22;Mouse;2.0
+C005;28;Headphones;2.0
+C005;28;Laptop;1.0
+C005;28;Mouse;3.0
